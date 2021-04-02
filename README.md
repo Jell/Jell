@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+How can I help?
+
+I am a freelance consultant with a broad area of knowledge and interests, with startup experience and expertise in **distributed systems**, **micro-services**, **cloud platforms** and **technical leadership**.
+
+📫 check out [https://reify.se](https://reify.se) for more info!
+
+
 <!--
 **Jell/Jell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
