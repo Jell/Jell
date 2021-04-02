@@ -4,7 +4,7 @@ How can I help?
 
 I am a freelance consultant with a broad area of knowledge and interests, with startup experience and expertise in **distributed systems**, **micro-services**, **cloud platforms** and **technical leadership**.
 
-📫 check out <a href="https://reify.se" target="_blank">https://reify.se</a> for more info!
+📫 check out [https://reify.se](https://reify.se) for more info!
 
 
 <!--
